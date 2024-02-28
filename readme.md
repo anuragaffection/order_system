@@ -46,7 +46,7 @@ This Order System application allow to buy & sell your products with admin panel
 2. Navigate to the frontend folder and run `npm install` to install frontend dependencies.
 3. Run `npm run dev` in the frontend folder to start the frontend application.
 
-### Backend [View Github Repo](https://github.com/anuragaffection/blog_mern_backend)
+### Backend 
 
 1. Clone the repository.
 2. Navigate to the backend folder and run `npm install` to install backend dependencies.
