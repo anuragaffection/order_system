@@ -1,0 +1,53 @@
+admin panel 
+
+
+01. Backend 
+-- Node js 
+-- Restful api 
+
+db 
+-- local mongodb 
+-- 
+
+collections 
+-- products [title, images, Description, price, ]
+-- orders 
+-- 
+
+api endpoints 
+-- admin login 
+-- products 
+
+
+
+
+02. frontend 
+-- React js 
+-- Redux toolkit 
+
+-- products [title, image, short Description]
+-- products in details [title, multiple  image, long description, price , add to cart ]
+-- add to cart 
+-- remove from cart 
+-- cart page [add product, quantities, total price ]
+-- send order button [name, email, address]
+
+
+
+user {
+    01. simple buying users {
+        -- products page all products form every admin  [title, image, short Description]
+        -- product in details [title, multiple  image, long description, price , add to cart ]
+        -- add to cart 
+        -- send order button  
+        -- 
+    }
+    02. admin users {
+        -- 
+    }
+}
+
+
+Admin 
+-- basic authenticatioin 
+-- menu [
