@@ -27,7 +27,7 @@ This Order System application allow to buy & sell your products with admin panel
 - React Redux
 - Redux Toolkit
 
-### Backned [View Github Repo](https://github.com/anuragaffection/blog_mern_backend)
+### Backned 
 
 - MongoDB
 - Node.js
